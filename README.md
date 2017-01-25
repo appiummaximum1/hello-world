@@ -1,5 +1,5 @@
 # hello-world
-Creating First Repository in Git Hub
+Creating First Repository in GitHub
 Implementing the 60 minutes student to my regular activities.
 #checking the mark down feature
 *shows in italic* and [link to Google](http://google.com)
